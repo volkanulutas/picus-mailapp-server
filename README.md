@@ -14,7 +14,7 @@ Sunucu uygulama kapatıldığında kaydetmiş olduğunuz veriler, inmap veritaba
 - Java 8 JDK kurulumunu bilgisayarınıza yapınız. 
 - http://localhost:8080 adresinde çalışan sunucu uygulama için 8080 portunda herhangi bir uygulama çalışmadığından emin olunuz.
 
-## Çalıştırma Adımları
+# Çalıştırma Adımları
 
 - mailapp_latest_executable.rar dosyayı bilgisayarınıza indiriniz.
 - mailapp_latest_executable.rar klasörünü, bilgisayarınızda uygun bir dizine çıkartınız. 
@@ -25,7 +25,7 @@ komutunu çalıştırınız. Böylece server uygulaması başlatılmış olur.
 
 - http://localhost:8080 adresinde uygulama çalışmaya başlar.
 
-## Admin E-Posta Adresi Bilgileri
+# Admin E-Posta Adresi Bilgileri
 Kullanıcı Adı: volkanulutaspicus@gmail.com
 Şifre: pic9000*vEm
 
@@ -34,8 +34,7 @@ Kullanıcı Adı: volkanulutaspicus@gmail.com
 
 - Bu adres üzerinden mail gönderimi sağlanır. 
 
-## Notlar
+# Notlar
 - Sunucu uygulamada javadoc'lar ve unit tesler zaman kısıtından dolayı eksik kalmıştır, geriye kalan her şey (bonuslar dahil) tamamlanmıştır.
 
 Herhangi bir sorununuzda volkanulutas@gmail.com adresi üzerinden iletişim kurabilirsiniz.
-
