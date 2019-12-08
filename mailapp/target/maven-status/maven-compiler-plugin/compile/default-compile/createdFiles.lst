@@ -1,0 +1,9 @@
+com\picussecurity\mailapp\controller\UserController.class
+com\picussecurity\mailapp\MailApplication.class
+com\picussecurity\mailapp\controller\FileController.class
+com\picussecurity\mailapp\entity\User.class
+com\picussecurity\mailapp\service\MailService.class
+com\picussecurity\mailapp\service\UserService.class
+com\picussecurity\mailapp\service\FileService.class
+com\picussecurity\mailapp\repository\UserRepository.class
+com\picussecurity\mailapp\controller\MailController.class
